@@ -14,7 +14,7 @@ public class Parent
 
 		class son extends Parent
 		{
-		   @Override
+		   
 		   public void doYoga() 
 		   {
 		      System.out.println("Yoga is good for Health");
